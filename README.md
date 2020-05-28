@@ -1,7 +1,7 @@
 # NLP-studio
 
 
------- WHAT THE CODE DOES -------
+------ WHAT "ACTIONS_EXTRACTION" DOES -------
 This program takes as input a text file, assumed to be a transcript from a meeting or conversation.
 It tokenizes the text in sentences, then search through each sentence some 'attention words' or 'chuncks'.
 The set of attention chuncks is stored in the 'attention_chuncks_vocab.txt' file (same folder).
