@@ -2,6 +2,7 @@
 
 
 ------ WHAT "ACTIONS_EXTRACTION" DOES -------
+
 This program takes as input a text file, assumed to be a transcript from a meeting or conversation.
 It tokenizes the text in sentences, then search through each sentence some 'attention words' or 'chuncks'.
 The set of attention chuncks is stored in the 'attention_chuncks_vocab.txt' file (same folder).
@@ -13,6 +14,7 @@ Note: the program reduces all to lowercase.
 
 
 ------ HOW TO RUN (please read) -------
+
 "Actions_Extraction_001.py" is the main file to run.
 Please check the file "attention_chuncks_vocab.txt" is copied in the same folder.
 This program takes as default the input "sample_001.txt".
