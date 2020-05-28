@@ -18,7 +18,7 @@ Note: the program reduces all to lowercase.
 "Actions_Extraction_001.py" is the main file to run.
 Please check the file "attention_chuncks_vocab.txt" is copied in the same folder.
 This program takes as default the input "sample_001.txt".
-4 additional sample files are provided in this repository for functionality test. These have been taken by BBC news. Some of them have been amended by insertion of some dedicated sentences filled with attention words. (easy to recognize as in capital letters - in source files) 
+N.4 additional sample files are provided in this repository for functionality test. These have been taken by BBC news. Some of them have been amended by insertion of some dedicated sentences filled with attention words. (easy to recognize as in capital letters - in source files) 
 The program provides assisted input by keyboard.
 To load the other 4 examples or other texta at your choice, simply write at prompt the filename you wish - completed with extension. 
 Files saved in the program folder do not need their path to be specified. 
