@@ -3,7 +3,7 @@ try:
     from colored import fg, bg, attr
     from getch import pause
 except ModuleNotFoundError:
-    print('''For this program to work, the following python modules need to be installed (try pip install 'module_name'):
+    print('''For this program to work, the following python modules need to be installed (use this: pip install 'module_name'):
     * nltk
     * colored
     * py-getch  
