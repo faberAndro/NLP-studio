@@ -4,9 +4,9 @@
 ------ WHAT "ACTIONS_EXTRACTION" DOES -------
 
 This program takes as input a text file assumed to be a transcript from a meeting or conversation.
-It tokenizes the text in sentences, then searches through each sentence several 'attention words' or 'chuncks'.
+It tokenizes the text in sentences, then searches through each sentence several 'attention words' or 'chunks'.
 The attention chuncks set is stored in the 'attention_chuncks_vocab.txt' file (same folder).
-The program outputs the same input text but highlighting each sentences, where at least one attention word/chunck has been found.
+The program outputs the same input text but highlighting each sentences, where at least one attention word/chunk has been found.
 More attention words are found in one sentence, stronger the highlight is (up to 5 degrees of colors).
 Highlighted sentences come numbered within the printed text.   
 Finally, a simple list of these sentences is printed out, cross-referenced to the corpus. 
