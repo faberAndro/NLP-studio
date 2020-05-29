@@ -27,8 +27,9 @@ PLEASE DO ALL THE FOLLOWING STEPS:
     * py-getch  (run from terminal "pip install py-getch")
 5. Install the following 'punkt' dependency for ntlk -> from the python interpreter command line run first "import nltk" and then 
 "nltk.download('punkt')"  
+6. If you still miss some dependencies from nltk, try run the command "nltk.downloader()" from the interpreter. When in the pop up window, download the "popular" packages from "collection" tag.
 
-6. Double click on Actions_Extraction_001.py or run it from your system terminal
+7. Double click on Actions_Extraction_001.py or run it from your system terminal
 
 This program takes as default input file "sample_001.txt".
 N.4 additional sample files have been provided in this repository for functionality test. They have been downloaded by BBC webpages. Some of them have been amended by insertion of dedicated sentences filled with attention words (additions are easy to recognize as in capital letters through source files) 
