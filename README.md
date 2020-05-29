@@ -22,4 +22,5 @@ This program takes as default input file "sample_001.txt".
 N.4 additional sample files have been provided in this repository for functionality test. They have been downloaded by BBC webpages. Some of them have been amended by insertion of dedicated sentences filled with attention words (additions are easy to recognize as in capital letters through source files) 
 To load the other 4 examples or other text at your choice, simply write at prompt the filename you like - completed with extension. 
 Files saved into the program folder do not need their path to be specified at prompt. 
+NOTE: in case everything comes out highlighted, you need to strip any blank line from the 'attention_chuncks_vocab.txt' file. A fix to this bug is coming straightforward.
 
