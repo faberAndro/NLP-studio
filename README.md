@@ -13,7 +13,7 @@ Finally, a simple list of these sentences is printed out, cross-referenced to th
 Note: the program reduces all to lowercase.
 
 
------- HOW TO RUN (please read) -------
+------ HOW TO RUN -------
 
 "Actions_Extraction_001.py" is the main file to run.
 It runs and works by command line (no GUI).
