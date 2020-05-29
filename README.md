@@ -25,9 +25,8 @@ PLEASE DO ALL THE FOLLOWING STEPS:
     * nltk      (run from terminal "pip install nltk") 
     * colored   (run from terminal "pip install colored")
     * py-getch  (run from terminal "pip install py-getch")
-5. Install the following 'punkt' dependency for ntlk -> from the python interpreter command line run: 
-import nltk
-nltk.download('punkt')  
+5. Install the following 'punkt' dependency for ntlk -> from the python interpreter command line run first "import nltk" and then 
+"nltk.download('punkt')"  
 
 6. Double click on Actions_Extraction_001.py or run it from your system terminal
 
