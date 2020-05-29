@@ -4,9 +4,9 @@ try:
     from getch import pause
 except ModuleNotFoundError:
     print('''For this program to work, the following python modules need to be installed (try pip install 'module_name'):
-    - nltk
-    - colored
-    - getch  
+    * nltk
+    * colored
+    * py-getch  
     Please check all modules have been correctly installed and try again.
           ''')
     exit(0)
